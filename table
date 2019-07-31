@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <tittle> Rifani Permata </tittle>
+ </head>
+ <body>
+ <table border= 1 cellpadding= 2 cellspacing= 0>
+  <tr>
+  <td align="right"> </td>
+  <td> Nama</td>
+  <td align="center">Jk</td>
+  <td>Kelas</td>
+ </tr>
+  <tr>
+  <td align="right">1 </td>
+  <td> Rifani Permata</td>
+  <td align="center">Perempuan </td>
+  <td>XI RPL 1</td>
+ </tr>
+  <tr>
+  <td align="right">2 </td>
+  <td>Davita Gisha Maulfi</td>
+  <td align="center"> Perempuan </td>
+  <td>XI RPL 1</td>
+ </tr>
+  <tr>
+  <td align="right">3 </td>
+  <td>Kamelia Putri</td>
+  <td align="center">Perempuan </td>
+  <td>XI RPL1</td>
+ </tr>
+ 
+   <tr>
+  <td align="right">4 </td>
+  <td>Nadia Pramesti </td>
+  <td align="center">Perempuan </td>
+  <td>XI RPL 1</td>
+ </tr>
+  <tr>
+  <td align="right">5 </td>
+  <td>Aina Almaida Pujianti</td>
+  <td align="center">Perempuan </td>
+  <td>XI RPL 1</td>
+ </tr>
+ </table>
+ 
+ <br><br><br>
+ 
+ <table border=1 cellpadding=15 cellspacing= 0>
+ 
+  <tr>
+  <td></td>
+  <td colspan="2"></td>
+  <td rowspan="3"></td>
+  <td></td>
+ </tr>
+  <tr>
+  <td rowspan="2"></td>
+  <td></td>
+  <td></td>
+  <td></td>
+ </tr>
+  <tr>
+  <td ></td>
+  <td></td>
+  <td rowspan="2"></td>
+ </tr>
+  <tr>
+  <td colspan="4"></td>
+ </tr>
+  <tr>
+  <td></td>
+  <td colspan="3"></td>
+  <td></td>
+ 
+ </tr>
+ </table>
+ </body>
+ 
+</html>
