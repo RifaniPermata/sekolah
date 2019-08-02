@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Biodata </title>
+</head>
+<body>
+	<a href="https://web.facebook.com"></a>
+	<img src="./rifani.jpeg" alt=" Rifani permata">
+	<h1 style="color= blue"></h1>
+	  <p>HI..... Namaku Rifani Permata aku biasa dipanggani oleh keluarga dan teman-temanku. Aku dilahirkan dikota subang sejak 1 Mei tahun 2003 dan dibesarkan oleh Mamah papah. Aktivitas sehari-hariku pergi ke sekolah kecuali dihari Sabtu dan Minggu.  IT ku. TERIMAKASIH :)</p>
+  <h4> Dari paragraf tersebut bisa disimpulkan</h4>
+     <ul>
+     	<li> nama :rifani</li>
+     	<li> kelas: xi rpl1</li>
+     </ul>
+
+
+	<table border="1" cellpadding="30" cellspacing="0">
+		<tr>
+			<td> </td>
+			<td></td>
+			<td colspan="4">11</td>
+			<td></td>
+			<td rowspan="4">25</td>
+		</tr>
+		<tr>
+			<td rowspan="3">21 </td>
+			<td></td>
+			<td colspan="2">12</td>
+			<td colspan="2">13</td>
+			<td></td>
+		</tr>
+		<tr> 
+			<td rowspan="4">22</td>
+			<td> </td>
+			<td colspan="3">14</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td rowspan="3"> 23 </td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td rowspan="4">24</td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td colspan="4">15</td>
+			<td></td>
+		</tr>
+	</table>
+
+</body>
+</html>
